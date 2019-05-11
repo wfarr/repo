@@ -1,0 +1,13 @@
+{
+  "remote.SSH.defaultExtensions": [
+      "eamodio.gitlens",
+      "mutantdino.resourcemonitor",
+      "peterjausovec.vscode-docker",
+      "ms-vscode.go",
+      "redhat.vscode-yaml"
+  ],
+  "remote.extensionKind": {
+      "peterjausovec.vscode-docker": "workspace",
+      "mutantdino.resourcemonitor": "workspace"
+  }
+}
